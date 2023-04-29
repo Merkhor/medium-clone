@@ -1,0 +1,17 @@
+.bg-c {
+    background-color:#FFC017;
+}
+
+.brdr {
+    border-bottom: black;
+
+}
+
+.fnt-mont {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-clr {
+    background-color: rgba(230, 230, 230, 1);
+    border-radius: 55px;
+}
